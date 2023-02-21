@@ -1,0 +1,26 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    padding: 5rem;
+    min-height: 10vh;
+    border: 5px solid var(--background-biege);
+    text-align: center;
+  }
+  .main a{
+    font-size: 36px;
+    color: var(--background-black);
+    padding: 2rem;
+    background-color: var(--background-gray);
+    margin: 1rem;
+    width: 100%;
+  }
+  .main div{
+    font-size: 36px;
+    color: var(--background-black);
+    padding: 2rem;
+    background-color: var(--background-biege);
+    margin: 1rem;
+    width: 100%;
+  }

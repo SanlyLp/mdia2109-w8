@@ -1,0 +1,34 @@
+:root {
+  --background-black : rgba(37, 38, 31, 1);
+  --background-biege: rgba(242, 242, 242, 1); 
+  --background-gray: rgba(216, 216, 214, 1); 
+  --background-brown : rgba(165, 159, 150, 1);
+  --background-darkBrown : rgb(118, 100, 74);
+}
+
+
+* {
+  box-sizing: border-box;
+  padding: 10;
+  border-radius: 20px;
+
+}
+
+
+html,
+body {
+  max-width: 100vw;
+
+}
+
+body {
+  background-color: var(--background-brown);
+
+
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+

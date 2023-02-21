@@ -1,0 +1,17 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    padding: 2rem;
+    margin: 1rem;
+}
+.main a{
+    font-size: 36px;
+    color: var(--background-black);
+    padding: 2rem;
+    width:100%;
+    background-color: lightblue;
+    margin: 2rem;
+    text-align: center;
+}

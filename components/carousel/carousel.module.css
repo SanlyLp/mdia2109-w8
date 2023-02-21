@@ -1,0 +1,12 @@
+.arrow{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: var(--background-black);
+}
+.main{
+  border: 3px solid var(--background-gray);
+  opacity: 20%;
+}
+.main:hover{
+  opacity: 100%;
+}
